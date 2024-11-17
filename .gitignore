@@ -1,0 +1,14 @@
+#Allure
+tests/allure_results
+
+#Idea
+.idea
+
+#Allure
+/tests/allure-results
+
+#
+.venv/
+
+__pycache__/
+
